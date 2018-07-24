@@ -2,7 +2,7 @@
 layout: default
 title: Biography
 ---
-# Biography
+## Biography
 
 I received my M.S. in Statistics and Ph.D. in Mathematics from the University of Minnesota.
 Between 2012 and 2015, I was a postdoctoral researcher at the Statistical and 
@@ -11,4 +11,4 @@ at the Mathematics Department, Duke University. After that, I was an assistant p
 at the Department of Mathematics, Syracuse University. In 2018, I joined California State
 University - Dominguez Hills as an assistant Professor of Mathematics.
 
-My CV can be found here.
+My CV can be found [here](../cv.pdf).
