@@ -4,9 +4,8 @@ title: homepage
 ---
 # Yi (Grace) Wang's Homepage
 
-![bio](bioYWang.png){:height="100px"} | Yi (Grace) Wang // Assistant Professor 
-
-Department of Mathematics|
+|![bio](bioYWang.png){:height="100px"} | Yi (Grace) Wang // Assistant Professor |
+| | Department of Mathematics|
 
 
 Assistant Professor
