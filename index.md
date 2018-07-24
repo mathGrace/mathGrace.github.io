@@ -7,7 +7,7 @@ title: homepage
 
 ---
 
-|![bio](bioYWang.png){:height="160px"} |           | Yi (Grace) Wang<br>Assistant Professor<br>Department of Mathematics<br>California State University Dominguez Hills<br>Email: ywang@csudh.edu |
+|![bio](bioYWang.png){:height="160px"} |           | Yi (Grace) Wang<br>Assistant Professor<br>Department of Mathematics<br>California State University Dominguez Hills<br>Office: <br>Email: ywang@csudh.edu <br>Phone:|
 
 ---
 
