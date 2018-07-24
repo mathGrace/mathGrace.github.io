@@ -4,13 +4,7 @@ title: homepage
 ---
 # Yi (Grace) Wang's Homepage
 
-|![bio](bioYWang.png){:height="120px"} | Yi (Grace) Wang<br>Assistant Professor<br>Department of Mathematics |
-
-
-Assistant Professor
-
-California State University Dominguez Hills\\
-Email: ywang@csudh.edu
+|![bio](bioYWang.png){:height="200px"} |      |  Yi (Grace) Wang<br>Assistant Professor<br>Department of Mathematics<br>California State University Dominguez Hills<br>Email: ywang@csudh.edu |
 
 My research interests lie in computational harmonic analysis, machine learning,
 signal and image processing and their applications to real data. 
