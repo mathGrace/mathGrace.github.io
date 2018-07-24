@@ -4,11 +4,13 @@ title: homepage
 ---
 # Yi (Grace) Wang's Homepage
 
-![bio](bioYWang.png){:height="100px"} | Yi (Grace) Wang \\ Assistant Professor |
+![bio](bioYWang.png){:height="100px"} | Yi (Grace) Wang // Assistant Professor 
+
+Department of Mathematics|
 
 
 Assistant Professor
-Department of Mathematics
+
 California State University Dominguez Hills
 Email: ywang@csudh.edu
 
