@@ -3,7 +3,8 @@ layout: default
 title: homepage
 ---
 # Yi (Grace) Wang's Homepage
-<../bioYWang.png> 
+
+![bio](bioYWang.png){:height="36px"}.
 
 Assistant Professor
 Department of Mathematics
