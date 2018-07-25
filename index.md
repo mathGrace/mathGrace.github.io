@@ -28,5 +28,5 @@ Research opportunities are available. If you are interested, shoot me an email o
 
 ---
 
-#### Activities
+### Activities
 - [AWM Research Symposium 2019](https://sites.google.com/site/awmmath/home/RS17/RS19), Rice University April 6-7, 2019. 
