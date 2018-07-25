@@ -21,8 +21,8 @@ Research opportunities are available. If you are interested, shoot me an email o
 ---
 
 #### Teaching
-- MAT 131 Elementary Statistics and Probability
-- MAT 321 Probability and Statistics
+- MAT 131 Elementary Statistics and Probability, Fall 2019
+- MAT 321 Probability and Statistics, Fall 2019
 
 
 ---
