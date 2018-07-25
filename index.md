@@ -11,6 +11,7 @@ title: homepage
 
 ---
 
+### Research
 My research interests lie in computational harmonic analysis, machine learning,
 signal and image processing and their applications to real data. 
 In particular, I am interested in analyzing data lying (locally) around some low-dimensional
@@ -20,12 +21,12 @@ Research opportunities are available. If you are interested, shoot me an email o
 
 ---
 
-#### Teaching
+### Teaching
 - MAT 131 Elementary Statistics and Probability, Fall 2019
 - MAT 321 Probability and Statistics, Fall 2019
 
 
 ---
 
-Activities
+#### Activities
 - [AWM Research Symposium 2019](https://sites.google.com/site/awmmath/home/RS17/RS19), Rice University April 6-7, 2019. 
