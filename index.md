@@ -3,10 +3,6 @@ layout: default
 title: homepage
 ---
 
-# Yi (Grace) Wang's Homepage
-
----
-
 |![bio](bioYWang.png){:height="160px"} |           | Yi (Grace) Wang<br>Assistant Professor<br>[Department of Mathematics](https://math.csudh.edu/)<br>[California State University Dominguez Hills](https://www.csudh.edu/)<br>  <br>Office: <br>Email: ywang@csudh.edu <br>Phone:|
 
 ---
