@@ -20,12 +20,12 @@ Research opportunities are available. If you are interested, shoot me an email o
 
 ---
 
-###### Teaching
-- MAT 131
-- MAT 321
+#### Teaching
+- MAT 131 Elementary Statistics and Probability
+- MAT 321 Probability and Statistics
 
 
 ---
 
 Activities
-- [AWM Research Symposium 2019](https://sites.google.com/site/awmmath/home/RS17/RS19)
+- [AWM Research Symposium 2019](https://sites.google.com/site/awmmath/home/RS17/RS19),Rice University April 6-7, 2019. 
