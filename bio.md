@@ -2,7 +2,7 @@
 layout: default
 title: Biography
 ---
-## Biography
+## Yi (Grace) Wang - Biography
 
 I received my M.S. in Statistics and Ph.D. in Mathematics from the University of Minnesota.
 Between 2012 and 2015, I was a postdoctoral researcher at the Statistical and 
