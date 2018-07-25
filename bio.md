@@ -17,8 +17,8 @@ University Dominguez Hills
 
 ### Awards
 - NIH Award (1R01EB025018-01): Geometric Time-Frequency Methods for Multi-Modal
-Physiological Monitoring. 01/2018 to 06/2020. //
-Principal Investigator, with Yuejie Chi, Kun Huang and Simon Lin.
+Physiological Monitoring. 
+Principal Investigator, with Yuejie Chi, Kun Huang and Simon Lin. 01/2018 to 06/2020. 
 - SIAM Early Career Travel Award, 2014
 - SIAM Travel Award, 2012
 
