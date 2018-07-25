@@ -8,10 +8,10 @@ title: homepage
 ---
 
 ### Research
-- computational harmonic analysis
-- machine learning
-- signal and image processing
-- real-data applications 
+: computational harmonic analysis
+: machine learning
+: signal and image processing
+: real-data applications 
 
 In particular, I am interested in analyzing data lying (locally) around some low-dimensional
 linear **subspace** and **time-dependent signals**. I am also working on **automated decision making in health care**, i.e., analyzing medical data using machine learning techniques to make fast, inexpensive and objective decisions. Read [more](research).
