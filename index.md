@@ -16,17 +16,17 @@ Computational harmonic analysis, machine learning,
 signal and image processing and real-data applications. 
 
 In particular, I am interested in analyzing data lying (locally) around some low-dimensional
-linear subspace and time-dependent signals. I am also working on automated decision making in health care, i.e., analyzing medical data using machine learning techniques to make fast, inexpensive and objective decisions. Read [more](research).
+linear **subspace** and **time-dependent signals**. I am also working on **automated decision making in health care**, i.e., analyzing medical data using machine learning techniques to make fast, inexpensive and objective decisions. Read [more](research).
 
-A full publication list can be found [here](publications) and my google scholar profile is [here](https://scholar.google.com/citations?user=71HiUPcAAAAJ&hl=en).
+A full publication list can be found [here](publications) and my **google scholar** profile is [here](https://scholar.google.com/citations?user=71HiUPcAAAAJ&hl=en).
 
-Research opportunities are available. If you are interested, shoot me an email or stop by my office.
+**Research opportunities** are available. If you are interested, shoot me an email or stop by my office.
 
 ---
 
 ### Teaching
-- MAT 131 Elementary Statistics and Probability, Fall 2019
-- MAT 321 Probability and Statistics, Fall 2019
+- [MAT 131 Elementary Statistics and Probability](/teaching/mat131), Fall 2019
+- [MAT 321 Probability and Statistics](/teaching/mat321), Fall 2019
 
 
 ---
