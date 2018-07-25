@@ -19,7 +19,8 @@ title: "publication list"
 
 ### Referred Conference Papers:
 
-4. Wang, Y. and Szlam, A., K-Mappings and Regression Trees, accepted. To appear in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2014. [code]
-3. Wang, Y. and Porikli, F., Multiple Dictionary Learning for Blocking Artifacts Reduction, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Paper: IVMSP-P4.8, March 2012.
-2. Hunt, F. Y., Marbukh, V. and Wang, Y., A Mathematical Model of Joint Congestion Control and Routing in Multisource Networks,Proceedings of the IEEE International Conference on Control Applications, CCA 2011.
-1. Zhang, T., Szlam, A., Wang, Y., and Lerman, G., Randomized hybrid linear modeling by local best- flats. IEEE Conference on Computer Vision and Pattern Recognition, 2010. [code]
+0. Wang, Y. and Szlam, A., K-Mappings and Regression Trees, accepted. To appear in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2014. [code]
+0. Wang, Y. and Porikli, F., Multiple Dictionary Learning for Blocking Artifacts Reduction, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Paper: IVMSP-P4.8, March 2012.
+0. Hunt, F. Y., Marbukh, V. and Wang, Y., A Mathematical Model of Joint Congestion Control and Routing in Multisource Networks,Proceedings of the IEEE International Conference on Control Applications, CCA 2011.
+0. Zhang, T., Szlam, A., Wang, Y., and Lerman, G., Randomized hybrid linear modeling by local best- flats. IEEE Conference on Computer Vision and Pattern Recognition, 2010. [code]
+{: reversed="reversed"}
