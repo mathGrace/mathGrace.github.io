@@ -3,6 +3,7 @@ layout: default
 title: Biography
 ---
 ## Biography
+---
 
 ### Employment
 - 2018 - present: Assistant Professor, Department of Mathematics, California State
