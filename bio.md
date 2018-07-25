@@ -7,9 +7,9 @@ title: Biography
 ### Employment
 - 2018 - present: Assistant Professor, Department of Mathematics, California State
 University Dominguez Hills
-- 2015 - 2018: Assistant Professor, Department of Mathematics, Syracuse University
-- 2012 - 2015: Visiting Assistant Professor, Department of Mathematics, Duke University
-- 2012 - 2014: Postdoc, Statistical and Applied Mathematical Sciences Institute (SAMSI)
+- 2015 - 2018:    Assistant Professor, Department of Mathematics, Syracuse University
+- 2012 - 2015:    Visiting Assistant Professor, Department of Mathematics, Duke University
+- 2012 - 2014:    Postdoc, Statistical and Applied Mathematical Sciences Institute (SAMSI)
 
 ### Education
 - Ph.D. in Mathematics, University of Minnesota
