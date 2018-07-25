@@ -23,8 +23,8 @@ A full publication list can be found [here](publications) and my **google schola
 ---
 
 ### Teaching
-- [MAT 131 Elementary Statistics and Probability](/teaching/mat131), Fall 2019
-- [MAT 321 Probability and Statistics](/teaching/mat321), Fall 2019
+- [MAT 131 Elementary Statistics and Probability](/teaching/mat131), Fall 2018
+- [MAT 321 Probability and Statistics](/teaching/mat321), Fall 2018
 
 
 ---
