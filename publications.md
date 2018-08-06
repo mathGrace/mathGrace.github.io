@@ -7,13 +7,13 @@ title: "publication list"
 
 ### Journal Papers:
 
+0. Wang, Y., [Consistency and Convergence Rate for Nearest Subspace Classifier](https://academic.oup.com/imaiai/article-abstract/6/1/41/2884278?redirectedFrom=fulltext), Information and Inference:  A Journal of the IMA, Vol. 6, No. 1, pp. 41-57, 2017. [[code]](/codes/NearestSubspaces.zip)
+
 0. O’Neal W.T., Wang, Y., Wu, H.-T., Zhang, ZM., Li, Y., Tereshchenko, LG., Estes, EH., Daubechies, I. and Soliman, EZ. [Electrocardiographic J-Wave and Cardiovascular Outcomes in the General Population (from the Atherosclerosis Risk in Communities Study)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5021615/), The American Journal of Cardiology, Vol. 118, No. 6, pp. 811-815, 2016.
 
-0. Wang, Y., Chen, G., and Maggioni M., [High Dimensional Data Modeling Techniques for Detection of Chemical Plumes and Anomalies in Hyperspectral Images and Movies](https://ieeexplore.ieee.org/document/7470597/), IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, Vol. 9, No. 9, 2016. [[code]](/codes/chemDtct.zip)
+0. Wang, Y., Chen, G., and Maggioni M., [High Dimensional Data Modeling Techniques for Detection of Chemical Plumes and Anomalies in Hyperspectral Images and Movies](https://ieeexplore.ieee.org/document/7470597/), IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, Vol. 9, No. 9, 2016. [[arXiv]](https://arxiv.org/abs/1507.05366)[[code]](/codes/chemDtct.zip)
 
-0. Wang, Y., Consistency and Convergence Rate for Nearest Subspace Classifier, Information and Inference:  A Journal of the IMA, DOI: 10.1093/imaiai/iaw006, 2016. [code]
-
-0. Daubechies, I., Wang, Y., and Wu, H., ConceFT: Concentration of Frequency and Time via a multitapered synchrosqueezed transform, Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 374(2065): 20150193, 2016. [code]
+0. Daubechies, I., Wang, Y., and Wu, H., [ConceFT: Concentration of Frequency and Time via a multitapered synchrosqueezed transform](https://www.ncbi.nlm.nih.gov/pubmed/26953175), Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 374(2065): 20150193, 2016. [[code]](https://www.dropbox.com/s/k4b9lzfx8gacbq0/ConceFT_FinalCode.zip?dl=0)
 
 0. Mahabal, A., Faraway, J., Zhang, L., Wang, Y., Wang, X. and Sun, J., Modeling Light Curves for Improved Classification, Statistical Analysis and Data Mining, DOI: 10.1002/sam.11305, 2016.
 
