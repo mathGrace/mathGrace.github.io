@@ -7,9 +7,8 @@ title: "publication list"
 
 ### Journal Papers:
 
-0. O’Neal W.T., Wang, Y., Wu, H.-T., Zhang, ZM., Li, Y., Tereshchenko, LG., Estes, EH., Daubechies, I. and Soliman, EZ. Electrocardiographic J-Wave and Cardiovascular Outcomes in the General Population (from the Atherosclerosis Risk in Communities Study), The American Journal of Cardiology. DOI: http://dx.doi.org/10.1016/j.amjcard.2016.06.047, 2016.
-
-0. Wang, Y., Chen, G., and Maggioni M., High Dimensional Data Modeling Techniques for Detection of Chemical Plumes and Anomalies in Hyperspectral Images and Movies, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, DOI: 10.1109/JSTARS.2016.2539968, 2016. [code]
+0. O’Neal W.T., Wang, Y., Wu, H.-T., Zhang, ZM., Li, Y., Tereshchenko, LG., Estes, EH., Daubechies, I. and Soliman, EZ. [Electrocardiographic J-Wave and Cardiovascular Outcomes in the General Population (from the Atherosclerosis Risk in Communities Study)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5021615/), The American Journal of Cardiology, Vol. 118, No. 6, pp. 811-815, 2016.
+0. Wang, Y., Chen, G., and Maggioni M., [High Dimensional Data Modeling Techniques for Detection of Chemical Plumes and Anomalies in Hyperspectral Images and Movies](https://ieeexplore.ieee.org/document/7470597/), IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, Vol. 9, No. 9, 2016. [code](/codes/chemDtct.zip)
 
 0. Wang, Y., Consistency and Convergence Rate for Nearest Subspace Classifier, Information and Inference:  A Journal of the IMA, DOI: 10.1093/imaiai/iaw006, 2016. [code]
 
