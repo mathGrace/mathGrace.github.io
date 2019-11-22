@@ -17,6 +17,8 @@ University Dominguez Hills
 - M.S. in Statistics, University of Minnesota
 
 ### Awards
+- RSCA (Research, Scholary and Creative Activity) of CSUDH, 2019
+- GMR (Grants for My Research) of CSUDH, 2019
 - NIH Award (1R01EB025018-01): Geometric Time-Frequency Methods for Multi-Modal
 Physiological Monitoring. 
 Principal Investigator, with [Yuejie Chi](https://users.ece.cmu.edu/~yuejiec/), [Kun Huang](https://medicine.iu.edu/faculty/38697/huang-kun/) and [Simon Lin](https://www.nationwidechildrens.org/find-a-doctor/profiles/simon-m-lin). 01/2018 to 06/2020. 
