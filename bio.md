@@ -23,4 +23,4 @@ Principal Investigator, with [Yuejie Chi](https://users.ece.cmu.edu/~yuejiec/), 
 - SIAM Early Career Travel Award, 2014
 - SIAM Travel Award, 2012
 
-My CV can be found [here](/files/cv.pdf).
+My CV can be found [here](/files/yi_cv3.pdf).
