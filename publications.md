@@ -7,6 +7,10 @@ title: "publication list"
 
 ### Journal Papers:
 
+0. Lei, J., Wang, Y., Bi, Z., Xue, S., Ou, B., and Liu, K., [Intraoperative radiotherapy (IORT) versus Whole-breast external beam radiotherapy (EBRT) in early stage breast cancer: results from SEER database](https://www.ncbi.nlm.nih.gov/pubmed/31691091). Accepted to Japanese Journal of Radiology, 2019.
+
+0. Lei, J., Wang, Y., Bhatta, L., Ahmed, J., Fan, D., Wang, J., and Liu, K., [Ventricular Geometry–Regularized QRSd Predicts Cardiac Resynchronization Therapy Response: Machine Learning from Crosstalk between Electrocardiography and Echocardiography](https://www.ncbi.nlm.nih.gov/pubmed/31104177). The International Journal of Cardiovascular Imaging, 35(7):1221-1229, 2019 Jul.
+
 0. Wang, Y., [Consistency and Convergence Rate for Nearest Subspace Classifier](https://academic.oup.com/imaiai/article-abstract/6/1/41/2884278?redirectedFrom=fulltext), Information and Inference:  A Journal of the IMA, Vol. 6, No. 1, pp. 41-57, 2017. [[pdf]](/files/hlm_classifier_paper2.pdf)[[code]](/codes/NearestSubspaces.zip)
 
 0. O’Neal W.T., Wang, Y., Wu, H.-T., Zhang, ZM., Li, Y., Tereshchenko, LG., Estes, EH., Daubechies, I. and Soliman, EZ. [Electrocardiographic J-Wave and Cardiovascular Outcomes in the General Population (from the Atherosclerosis Risk in Communities Study)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5021615/), The American Journal of Cardiology, Vol. 118, No. 6, pp. 811-815, 2016.
